@@ -1,5 +1,5 @@
 
-# LEETCODE JAVA SOLUTIONS
+## Leetcode Java Solutions
 
 This repo is used to post my Java solutions for Leetcode problems.
 Solutions will include:
